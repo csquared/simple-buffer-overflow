@@ -1,0 +1,5 @@
+## Buffer Overflow Offset Finder
+
+ruby brute_force.rb
+
+creates 'winner.c' which should be a working example of a simple buffer overflow on your current system!
